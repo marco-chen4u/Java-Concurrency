@@ -11,11 +11,9 @@ public class SimpleStream {
         System.out.println(dishNameByCollections);
 
         /*List<String> dishNameByStream = getDishNameByStream(menu);
-        Thread.sleep(100000);
         System.out.println(dishNameByStream);*/
 
         List<String> dishNameByParallelStream = getDishNameByParallelStream(menu);
-        Thread.sleep(20000);
         System.out.println(dishNameByParallelStream);
 
     }
