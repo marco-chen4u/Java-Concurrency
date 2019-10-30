@@ -1,4 +1,4 @@
-package atomicclock;
+package atomiclock;
 
 public class VolatileDemo {
     // fields

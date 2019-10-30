@@ -1,4 +1,4 @@
-package atomicclock;
+package atomiclock;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

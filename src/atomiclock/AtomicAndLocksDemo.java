@@ -1,8 +1,4 @@
-package atomicclock;
-
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.atomic.LongAdder;
+package atomiclock;
 
 public class AtomicAndLocksDemo {
     public static void main(String[] args) throws InterruptedException {
