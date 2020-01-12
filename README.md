@@ -1,4 +1,4 @@
-#Java Concurrency  
+#Java Concurrency
 
 Demonstrate Concurrency concept by Java 8 features.  
 
